@@ -1,0 +1,2 @@
+serviceClass: com.danielvaughan.rssreader.client.GreetingService
+path: E71002F001BB3FBBB778764FA10E380E.gwt.rpc
